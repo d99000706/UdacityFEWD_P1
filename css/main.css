@@ -1,0 +1,156 @@
+/* comment
+
+*/
+
+
+* {
+	/*border: 1px solid red !important; */
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	max-width: 1000px;
+}
+
+
+/*
+https://drive.google.com/file/d/0B3AWOegU14LyRmVDbVliMmtiTkk/view?usp=sharing
+
+https://docs.google.com/document/d/1vQU2HNjLI0IizPR6zgjeEunUhGs5nQXFld4jcaxqSEE/edit?usp=sharing
+
+https://docs.google.com/document/d/1WRmRnDP_LyhSDo_KN2LmCxN6fiGfBOU3IEl_LK0dpdU/edit?usp=sharing
+
+*/
+
+h1 {
+	display: block;
+	text-align: right;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 28px;
+}
+
+
+h4 {
+	display: block;
+	text-align: right;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+h5 {
+	display: block;
+	text-align: right;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+}
+
+
+hr {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	border-width: 4px;
+}
+
+.row {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.mainImageFill {
+	width: 100%;
+	height: 100%;
+}
+
+
+.imageFill {
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+
+ .featuredTxtStyle {
+	display: block;
+	text-align: left;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 28px;
+ }
+
+
+ .workTxtStyle {
+	display: block;
+	text-align: center;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+ }
+
+
+
+ .urlTxtStyle {
+	display: block;
+	text-align: center;
+	color: gray;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+ }
+
+.col1_12{
+	width: 8.33%;
+}
+
+.col2_12{
+	width: 16.66%;
+}
+
+.col3_12{
+	width: 25%;
+}
+
+.col4_12{
+	width: 33.33%;
+}
+
+.col5_12{
+	width: 41.66%;
+}
+
+.col6_12{
+	width: 50%;
+}
+
+.col7_12{
+	width: 58.33%;
+}
+
+.col8_12{
+	width: 66.66%;
+}
+
+.col9_12{
+	width: 75%;
+}
+
+.col10_12{
+	width: 83.33%;
+}
+
+.col11_12{
+	width: 91.66%;
+}
+
+.col12_12{
+	width: 100%;
+}
+
